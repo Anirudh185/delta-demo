@@ -1,3 +1,3 @@
 # delta-demo
-practice demo repo
+practice demo repo.
 editeed
